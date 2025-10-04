@@ -6,7 +6,7 @@
   MediAPP
 </h1>
 
-Este es un proyecto de fin de ciclo desarrollado por [Alberto Martínez Pérez](https://github.com/BertoMP) y [Rafael Romero Roibu](https://github.com/romraf) utilizando las tecnologías
+Este es un proyecto de fin de ciclo desarrollado por [Alberto Martínez Pérez](https://github.com/BertoMP) y [Rafael Romero Roibu](https://github.com/Romeerz) utilizando las tecnologías
 Angular 17.3.10 para el _frontend_, Node.JS 20.14 para el _backend_ y MySQL para la base de datos.
 
 Nuestro _frontend_ se encarga de la interfaz de usuario y la comunicación con el _backend_ a través de peticiones HTTP. El _backend_ por su parte es el encargado 
